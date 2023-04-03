@@ -1,0 +1,43 @@
+body{   
+    background-color: rgb(48, 48, 48);
+    color: antiquewhite;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+} 
+
+header h1{   
+    font-size: 50px;
+    padding-top: 80px;
+     
+}
+
+header{ 
+    display: grid;
+    grid-auto-flow:column ;
+    grid-auto-columns: 33vw;
+}
+
+section{   
+    background-color: rgb(228, 213, 193);
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    width: 600px;
+    margin: auto;
+    
+}
+
+.botao{ 
+    background-color: rgb(12,112,242);
+    color: aliceblue;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    border-radius:  10px;
+    border: 0px;
+    bo
+
+    
+}
+
